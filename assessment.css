@@ -1,0 +1,42 @@
+
+body{
+    background-color: #ff9900;
+    color: white;
+    text-align: center;
+    width: 600px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'BIZ UDGothic';
+}
+button{
+    padding: 5px 20px;
+    background-color: yellow;
+    border-style: none;
+    color: red;
+    border-radius: 5px;
+    border-style: solid;
+    font-family: 'BIZ UDGothic';
+    box-shadow: 1.5px 1.5px 1.5px #fff;
+    transition: 700ms;
+}
+input{
+    height: 20px;
+    border-radius: 5px;
+    border-style: none;
+    box-shadow: none;
+    transform: translate(1px,2px);
+}
+button:hover{
+    padding: 5px 20px;
+    background-color: rgb(87, 29, 29);
+    border-style: none;
+    color: red;
+    border-radius: 5px;
+    border-style: solid;
+    font-family: 'BIZ UDGothic';
+    box-shadow: 1.5px 1.5px 1.5px #fff;
+    transition: 700ms;
+}
+p{
+    font-weight: bold;
+}
